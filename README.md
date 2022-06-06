@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning BioTech and Web Development
 - 👯 I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about HTML CSS JavaScript
-- 📫 How to reach me: sumik362000@gmai.com
+- 📫 How to reach me: sumik362000@gmail.com
 - ⚡ Fun fact: I love 3C's ,they're : coffee,chocolates & chicken :)
 
 <!-- <table cellspacing="15">
