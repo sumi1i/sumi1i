@@ -1,19 +1,17 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 
-**sumi1i/sumi1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub profile**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🔭 I’m currently studing at JMI
+- 🌱 I’m currently learning BioTech and Web Development
+- 👯 I’m looking to collaborate on Web Development Projects
+- 💬 Ask me about HTML CSS JavaScript
+- 📫 How to reach me: sumik362000@gmai.com
+- ⚡ Fun fact: I love 3C's ,they're : coffee,chocolates & chicken :)
 
-<table cellspacing="15">
+<!-- <table cellspacing="15">
     <tr>
       <td>  <h1>Sumita Kumari</h1>
         <p><em>Student of <strong>B.Sc Biotechnology,<a href="https://www.jmi.ac.in/">JMI</a></a></strong></em></p>
@@ -77,4 +75,4 @@ Here are some ideas to get you started:
   </table>
   <hr>
   <a href="Contact.html">Contact me</a>
-  <a href="Hobbies.html">My Hobbies</a>
+  <a href="Hobbies.html">My Hobbies</a> -->
